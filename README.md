@@ -1,0 +1,1 @@
+# Criando_Aplicacoes_Inteligentes_com_LangChain_e_LLM
